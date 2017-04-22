@@ -1,4 +1,4 @@
-package ar.edu.unlam.pb2.tp1Disco;
+package ar.edu.unlam.pb2.disco;
 
 public class Disco {
 private Double diametroMayor;
